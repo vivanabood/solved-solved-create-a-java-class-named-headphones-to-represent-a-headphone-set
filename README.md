@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-create-a-java-class-named-headphones-to-represent-a-headphone-set
+<br>
+<strong></strong>Create a Java class named HeadPhones to represent a headphone set. The class contains: • Three constants named LOW, MEDIUM and HIGH with values of 1, 2 and 3 to denote the headphone volume. • A private int data field named volume that specifies the volume of the headphone. The default volume is MEDIUM. • A private boolean data field named pluggedIn that specifies if the headphone is plugged in.
